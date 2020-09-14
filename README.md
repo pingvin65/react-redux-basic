@@ -1,3 +1,20 @@
+# react with redux basic example
+
+
+### Login form
+
+![Login form](./images/login.png)
+
+### initial counter 
+
+![Login form](./images/counter01.png)
+
+
+### counter 
+
+![Login form](./images/counter02.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
